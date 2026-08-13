@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RAG-Survey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-08T05:55:17Z",
+            "owner": "Tongji-KGLLM",
+            "repo": "RAG-Survey",
+            "stars": 2140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM RAG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T03:17:18Z",
+            "owner": "jxzhangjhu",
+            "repo": "Awesome-LLM-RAG",
+            "stars": 1342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome RAG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-07T13:58:37Z",
+            "owner": "frutik",
+            "repo": "Awesome-RAG",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM with RAG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T13:17:41Z",
+            "owner": "WangRongsheng",
+            "repo": "Awesome-LLM-with-RAG",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM Reader",
+          "description": "A Repository of Retrieval-augmented LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-15T06:14:21Z",
+            "owner": "HITsz-TMG",
+            "repo": "awesome-llm-reader",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Other Collections"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:34.349Z",
+    "original_repository": "coree/awesome-rag",
+    "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
+    "enhanced_repository": "enhansome/enhansome-rag",
+    "enhanced_repository_description": null,
+    "title": "Awesome RAG with stars"
+  }
+}
