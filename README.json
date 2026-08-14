@@ -24,7 +24,7 @@
             "last_commit": "2024-05-08T05:55:17Z",
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2140
+            "stars": 2138
           }
         },
         {
@@ -88,7 +88,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:57:49.458Z",
+    "last_updated": "2026-08-14T15:50:08.474Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
     "enhanced_repository": "enhansome/enhansome-rag",
