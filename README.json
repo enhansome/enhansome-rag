@@ -38,7 +38,7 @@
             "last_commit": "2026-07-22T03:17:18Z",
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -88,7 +88,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:50:08.474Z",
+    "last_updated": "2026-08-15T15:18:11.133Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
     "enhanced_repository": "enhansome/enhansome-rag",
