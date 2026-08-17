@@ -52,7 +52,7 @@
             "last_commit": "2025-09-07T13:58:37Z",
             "owner": "frutik",
             "repo": "Awesome-RAG",
-            "stars": 380
+            "stars": 381
           }
         },
         {
@@ -88,7 +88,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:19:36.320Z",
+    "last_updated": "2026-08-17T15:23:36.933Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
     "enhanced_repository": "enhansome/enhansome-rag",
