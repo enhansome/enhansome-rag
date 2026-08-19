@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:43:19Z",
+                "last_commit": "2026-08-19T15:26:46Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17480
+                "stars": 17481
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:43:19Z",
+                "last_commit": "2026-08-19T15:26:46Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17480
+                "stars": 17481
               }
             },
             {
@@ -328,7 +328,7 @@
             "last_commit": "2024-05-08T05:55:17Z",
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2138
+            "stars": 2137
           }
         },
         {
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:46:45.387Z",
+    "last_updated": "2026-08-19T15:28:42.376Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
