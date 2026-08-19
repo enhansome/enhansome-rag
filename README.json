@@ -1,17 +1,320 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176982014,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:43:19Z",
+                "owner": "NVIDIA",
+                "repo": "Megatron-LM",
+                "stars": 17480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176982014,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:43:19Z",
+                "owner": "NVIDIA",
+                "repo": "Megatron-LM",
+                "stars": 17480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Retrieve Anything To Augment Large Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 673596675,
+                "language": "Python",
+                "last_commit": "2026-08-14T06:19:17Z",
+                "owner": "FlagOpen",
+                "repo": "FlagEmbedding",
+                "stars": 12060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Universal Information Extraction with Meta-Pretrained Self-Retrieval",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514217147,
+                "language": "Python",
+                "last_commit": "2026-06-10T11:18:20Z",
+                "owner": "AlibabaResearch",
+                "repo": "DAMO-ConvAI",
+                "stars": 1577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635560128,
+                "language": "Python",
+                "last_commit": "2024-03-07T22:05:38Z",
+                "owner": "abertsch72",
+                "repo": "unlimiformer",
+                "stars": 1062
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Active Retrieval Augmented Generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638873405,
+                "language": "Python",
+                "last_commit": "2023-11-20T08:25:17Z",
+                "owner": "jzbjyb",
+                "repo": "FLARE",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "In-Context Retrieval-Augmented Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 593596662,
+                "language": "Python",
+                "last_commit": "2023-12-20T07:55:54Z",
+                "owner": "AI21Labs",
+                "repo": "in-context-ralm",
+                "stars": 295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Query Rewriting for Retrieval-Augmented Large Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 707510227,
+                "language": "Python",
+                "last_commit": "2024-02-28T12:07:11Z",
+                "owner": "xbmxb",
+                "repo": "RAG-query-rewriting",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nonparametric Masked Language Modeling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 580837668,
+                "language": "Python",
+                "last_commit": "2023-01-06T04:01:56Z",
+                "owner": "facebookresearch",
+                "repo": "NPM",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Dense Information Retrieval with Contrastive Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 439404172,
+                "language": "Python",
+                "last_commit": "2023-04-07T10:14:11Z",
+                "owner": "facebookresearch",
+                "repo": "contriever",
+                "stars": 780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ Atlas: Few-shot Learning with Retrieval Augmented Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566905663,
+                "language": "Python",
+                "last_commit": "2026-07-02T03:27:01Z",
+                "owner": "facebookresearch",
+                "repo": "atlas",
+                "stars": 560
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memorizing Transformers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496074889,
+                "language": "Python",
+                "last_commit": "2023-06-14T19:19:45Z",
+                "owner": "princeton-nlp",
+                "repo": "TRIME",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recitation-Augmented Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601839345,
+                "language": "Python",
+                "last_commit": "2023-02-22T22:54:32Z",
+                "owner": "Edward-Sun",
+                "repo": "RECITE",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493285237,
+                "language": "Python",
+                "last_commit": "2022-07-16T03:13:01Z",
+                "owner": "neulab",
+                "repo": "retomaton",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kNN-Prompt: Nearest Neighbor Zero-Shot Inference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496054901,
+                "language": "Python",
+                "last_commit": "2022-11-02T20:21:55Z",
+                "owner": "swj0419",
+                "repo": "kNN_prompt",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mention Memory: incorporating textual knowledge into Transformers through entity mention attention",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153201352,
+                "language": "Python",
+                "last_commit": "2026-06-10T18:34:36Z",
+                "owner": "google-research",
+                "repo": "language",
+                "stars": 1794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient Nearest Neighbor Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405148276,
+                "language": "Python",
+                "last_commit": "2022-01-20T00:20:10Z",
+                "owner": "jxhe",
+                "repo": "efficient-knnlm",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 263491619,
+                "language": "Python",
+                "last_commit": "2023-04-06T07:36:18Z",
+                "owner": "facebookresearch",
+                "repo": "DPR",
+                "stars": 1869
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ REALM: Retrieval-Augmented Language Model Pre-Training",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153201352,
+                "language": "Python",
+                "last_commit": "2026-06-10T18:34:36Z",
+                "owner": "google-research",
+                "repo": "language",
+                "stars": 1794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generalization through Memorization: Nearest Neighbor Language Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239880741,
+                "language": "Python",
+                "last_commit": "2021-06-07T18:40:44Z",
+                "owner": "urvashik",
+                "repo": "knnlm",
+                "stars": 332
+              }
+            }
+          ],
+          "description": "2024\n2023\n2022\n2021\n2020",
+          "node_type": "group",
+          "title": "General"
+        }
+      ],
       "title": "Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 732328810,
             "language": null,
             "last_commit": "2024-05-08T05:55:17Z",
             "owner": "Tongji-KGLLM",
@@ -34,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710443541,
             "language": null,
             "last_commit": "2026-07-22T03:17:18Z",
             "owner": "jxzhangjhu",
@@ -48,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702839430,
             "language": null,
             "last_commit": "2025-09-07T13:58:37Z",
             "owner": "frutik",
@@ -62,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 709778988,
             "language": "Python",
             "last_commit": "2023-11-03T13:17:41Z",
             "owner": "WangRongsheng",
@@ -76,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702763265,
             "language": null,
             "last_commit": "2024-08-15T06:14:21Z",
             "owner": "HITsz-TMG",
@@ -88,8 +396,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:29:34.774Z",
+    "last_updated": "2026-08-19T12:46:45.387Z",
     "original_repository": "coree/awesome-rag",
+    "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
     "enhanced_repository": "enhansome/enhansome-rag",
     "enhanced_repository_description": null,
