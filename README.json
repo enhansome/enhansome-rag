@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:26:46Z",
+                "last_commit": "2026-08-20T15:15:47Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17481
+                "stars": 17499
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:26:46Z",
+                "last_commit": "2026-08-20T15:15:47Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17481
+                "stars": 17499
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-14T06:19:17Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12060
+                "stars": 12064
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2024-02-28T12:07:11Z",
                 "owner": "xbmxb",
                 "repo": "RAG-query-rewriting",
-                "stars": 226
+                "stars": 227
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-06-10T18:34:36Z",
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1794
+                "stars": 1795
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-06-10T18:34:36Z",
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1794
+                "stars": 1795
               }
             },
             {
@@ -328,7 +328,7 @@
             "last_commit": "2024-05-08T05:55:17Z",
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2137
+            "stars": 2138
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2023-11-03T13:17:41Z",
             "owner": "WangRongsheng",
             "repo": "Awesome-LLM-with-RAG",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:28:42.376Z",
+    "last_updated": "2026-08-20T15:31:35.626Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
