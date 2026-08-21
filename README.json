@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:15:47Z",
+                "last_commit": "2026-08-21T15:25:08Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17499
+                "stars": 17507
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:15:47Z",
+                "last_commit": "2026-08-21T15:25:08Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17499
+                "stars": 17507
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-14T06:19:17Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12064
+                "stars": 12069
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1577
+                "stars": 1578
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-04-07T10:14:11Z",
                 "owner": "facebookresearch",
                 "repo": "contriever",
-                "stars": 780
+                "stars": 779
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2023-06-14T19:19:45Z",
                 "owner": "princeton-nlp",
                 "repo": "TRIME",
-                "stars": 193
+                "stars": 192
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-06-10T18:34:36Z",
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795
+                "stars": 1794
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-06-10T18:34:36Z",
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795
+                "stars": 1794
               }
             },
             {
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:31:35.626Z",
+    "last_updated": "2026-08-21T15:30:46.128Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
