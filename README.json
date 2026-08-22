@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:25:08Z",
+                "last_commit": "2026-08-22T14:57:11Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17507
+                "stars": 17512
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:25:08Z",
+                "last_commit": "2026-08-22T14:57:11Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17507
+                "stars": 17512
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-14T06:19:17Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12069
+                "stars": 12071
               }
             },
             {
@@ -328,7 +328,7 @@
             "last_commit": "2024-05-08T05:55:17Z",
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2138
+            "stars": 2139
           }
         },
         {
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:30:46.128Z",
+    "last_updated": "2026-08-22T15:18:41.304Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
