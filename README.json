@@ -17,7 +17,7 @@
                 "last_commit": "2024-05-08T05:55:17Z",
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2139
+                "stars": 2137
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:09:55Z",
+                "last_commit": "2026-08-25T15:00:08Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17574
+                "stars": 17584
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:09:55Z",
+                "last_commit": "2026-08-25T15:00:08Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17574
+                "stars": 17584
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T02:57:42Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12080
+                "stars": 12084
               }
             },
             {
@@ -365,7 +365,7 @@
             "last_commit": "2024-05-08T05:55:17Z",
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2139
+            "stars": 2137
           }
         },
         {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:03.957Z",
+    "last_updated": "2026-08-25T15:39:58.749Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
