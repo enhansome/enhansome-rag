@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:22:39Z",
+                "last_commit": "2026-08-25T06:09:55Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17563
+                "stars": 17574
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:22:39Z",
+                "last_commit": "2026-08-25T06:09:55Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17563
+                "stars": 17574
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T02:57:42Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12078
+                "stars": 12080
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1578
+                "stars": 1579
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2023-11-20T08:25:17Z",
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 669
+                "stars": 668
               }
             },
             {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:37:14.966Z",
+    "last_updated": "2026-08-25T06:16:03.957Z",
     "original_repository": "coree/awesome-rag",
     "original_repository_id": 755500149,
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
