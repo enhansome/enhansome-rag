@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:16:05Z",
+                "last_commit": "2026-08-27T11:59:17Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17611
+                "stars": 17625
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:16:05Z",
+                "last_commit": "2026-08-27T11:59:17Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17611
+                "stars": 17625
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T02:57:42Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12085
+                "stars": 12091
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-06-10T18:34:36Z",
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1794
+                "stars": 1795
               }
             },
             {
@@ -324,7 +324,7 @@
                 "last_commit": "2026-06-10T18:34:36Z",
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1794
+                "stars": 1795
               }
             },
             {
@@ -433,9 +433,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:16:17.703Z",
-    "original_repository": "coree/awesome-rag",
-    "original_repository_id": 755500149,
+    "last_updated": "2026-08-27T12:02:00.924Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 755500149,
+      "language": null,
+      "last_commit": "2025-12-01T08:45:44Z",
+      "owner": "coree",
+      "repo": "awesome-rag",
+      "stars": 432
+    },
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
     "enhanced_repository": "enhansome/enhansome-rag",
     "enhanced_repository_description": null,
