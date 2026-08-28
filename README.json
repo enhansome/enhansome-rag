@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:59:17Z",
+                "last_commit": "2026-08-28T00:08:13Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17625
+                "stars": 17635
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:59:17Z",
+                "last_commit": "2026-08-28T00:08:13Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17625
+                "stars": 17635
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T02:57:42Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12091
+                "stars": 12094
               }
             },
             {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:00.924Z",
+    "last_updated": "2026-08-28T00:14:01.598Z",
     "original_repository_info": {
       "archived": false,
       "id": 755500149,
