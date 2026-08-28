@@ -18,7 +18,8 @@
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
                 "stars": 2138
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             }
           ],
           "description": "2024\n2023\n2022",
@@ -40,7 +41,8 @@
                 "owner": "microsoft",
                 "repo": "LMOps",
                 "stars": 4465
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:08:13Z",
+                "last_commit": "2026-08-28T23:46:40Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17635
-              }
+                "stars": 17657
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:08:13Z",
+                "last_commit": "2026-08-28T23:46:40Z",
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17635
-              }
+                "stars": 17657
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -84,8 +88,9 @@
                 "last_commit": "2026-08-24T02:57:42Z",
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12094
-              }
+                "stars": 12098
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1580
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "abertsch72",
                 "repo": "unlimiformer",
                 "stars": 1062
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "jzbjyb",
                 "repo": "FLARE",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "AI21Labs",
                 "repo": "in-context-ralm",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "xbmxb",
                 "repo": "RAG-query-rewriting",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "facebookresearch",
                 "repo": "NPM",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "facebookresearch",
                 "repo": "contriever",
                 "stars": 779
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "facebookresearch",
                 "repo": "atlas",
                 "stars": 560
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "princeton-nlp",
                 "repo": "TRIME",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "Edward-Sun",
                 "repo": "RECITE",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "neulab",
                 "repo": "retomaton",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "swj0419",
                 "repo": "kNN_prompt",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "google-research",
                 "repo": "language",
                 "stars": 1795
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "jxhe",
                 "repo": "efficient-knnlm",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -309,8 +328,9 @@
                 "last_commit": "2023-04-06T07:36:18Z",
                 "owner": "facebookresearch",
                 "repo": "DPR",
-                "stars": 1869
-              }
+                "stars": 1870
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "google-research",
                 "repo": "language",
                 "stars": 1795
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "urvashik",
                 "repo": "knnlm",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T23:52:10.376Z"
             }
           ],
           "description": "2024\n2023\n2022\n2021\n2020",
@@ -366,7 +388,8 @@
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
             "stars": 2138
-          }
+          },
+          "first_seen": "2026-08-28T23:52:10.376Z"
         },
         {
           "node_type": "item",
@@ -381,7 +404,8 @@
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
             "stars": 1343
-          }
+          },
+          "first_seen": "2026-08-28T23:52:10.376Z"
         },
         {
           "node_type": "item",
@@ -396,7 +420,8 @@
             "owner": "frutik",
             "repo": "Awesome-RAG",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T23:52:10.376Z"
         },
         {
           "node_type": "item",
@@ -411,7 +436,8 @@
             "owner": "WangRongsheng",
             "repo": "Awesome-LLM-with-RAG",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T23:52:10.376Z"
         },
         {
           "node_type": "item",
@@ -426,14 +452,15 @@
             "owner": "HITsz-TMG",
             "repo": "awesome-llm-reader",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:52:10.376Z"
         }
       ],
       "title": "Other Collections"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:14:01.598Z",
+    "last_updated": "2026-08-28T23:52:10.376Z",
     "original_repository_info": {
       "archived": false,
       "id": 755500149,
