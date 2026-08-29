@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732328810,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-08T05:55:17Z",
+                "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2138
+                "stars": 2138,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             }
@@ -35,12 +40,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-25T06:15:21Z",
+                "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4465,
+                "topics": [
+                  "agi",
+                  "gpt",
+                  "language-model",
+                  "llm",
+                  "lm",
+                  "lmops",
+                  "nlp",
+                  "pretraining",
+                  "prompt",
+                  "promptist",
+                  "x-prompt"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -51,12 +73,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ongoing research training transformer models at scale",
+                "homepage": "https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html",
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:46:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:39:59Z",
+                "open_issues": 1259,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17657
+                "stars": 17658,
+                "topics": [
+                  "large-language-models",
+                  "model-para",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -67,12 +98,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ongoing research training transformer models at scale",
+                "homepage": "https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html",
                 "id": 176982014,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:46:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:39:59Z",
+                "open_issues": 1259,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17657
+                "stars": 17658,
+                "topics": [
+                  "large-language-models",
+                  "model-para",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -83,12 +123,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retrieval and Retrieval-augmented LLMs",
+                "homepage": "http://www.bge-model.com/",
                 "id": 673596675,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:57:42Z",
+                "open_issues": 906,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12098
+                "stars": 12098,
+                "topics": [
+                  "embeddings",
+                  "information-retrieval",
+                  "llm",
+                  "retrieval-augmented-generation",
+                  "sentence-embeddings",
+                  "text-semantic-similarity"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -99,12 +151,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+                "homepage": null,
                 "id": 514217147,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-10T11:18:20Z",
+                "open_issues": 79,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1580
+                "stars": 1580,
+                "topics": [
+                  "conversational-ai",
+                  "deep-learning",
+                  "dialog",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -115,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repo for the NeurIPS 2023 paper \"Unlimiformer: Long-Range Transformers with Unlimited Length Input\"",
+                "homepage": null,
                 "id": 635560128,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-07T22:05:38Z",
+                "open_issues": 24,
                 "owner": "abertsch72",
                 "repo": "unlimiformer",
-                "stars": 1062
+                "stars": 1062,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -131,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Forward-Looking Active REtrieval-augmented generation (FLARE)",
+                "homepage": null,
                 "id": 638873405,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-20T08:25:17Z",
+                "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 668
+                "stars": 668,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -147,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 593596662,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-20T07:55:54Z",
+                "open_issues": 4,
                 "owner": "AI21Labs",
                 "repo": "in-context-ralm",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -163,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 707510227,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-28T12:07:11Z",
+                "open_issues": 9,
                 "owner": "xbmxb",
                 "repo": "RAG-query-rewriting",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -179,12 +261,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The original implementation of Min et al. \"Nonparametric Masked Language Modeling\" (paper https//arxiv.org/abs/2212.01349)",
+                "homepage": null,
                 "id": 580837668,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-06T04:01:56Z",
+                "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "NPM",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -195,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning",
+                "homepage": null,
                 "id": 439404172,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-07T10:14:11Z",
+                "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "contriever",
-                "stars": 779
+                "stars": 779,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -211,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for supporting the paper \"Atlas Few-shot Learning with Retrieval Augmented Language Models\",(https//arxiv.org/abs/2208.03299)",
+                "homepage": null,
                 "id": 566905663,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-02T03:27:01Z",
+                "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "atlas",
-                "stars": 560
+                "stars": 560,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -227,12 +324,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2022] Training Language Models with Memory Augmentation https://arxiv.org/abs/2205.12674",
+                "homepage": null,
                 "id": 496074889,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-14T19:19:45Z",
+                "open_issues": 1,
                 "owner": "princeton-nlp",
                 "repo": "TRIME",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "language-model",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -243,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of ICLR paper: https://openreview.net/forum?id=-cqvvvb-NkI",
+                "homepage": null,
                 "id": 601839345,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-22T22:54:32Z",
+                "open_issues": 3,
                 "owner": "Edward-Sun",
                 "repo": "RECITE",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -259,12 +369,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for the RetoMaton paper: \"Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval\" (ICML 2022)",
+                "homepage": null,
                 "id": 493285237,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-16T03:13:01Z",
+                "open_issues": 1,
                 "owner": "neulab",
                 "repo": "retomaton",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "icml-2022",
+                  "knn",
+                  "knn-lm",
+                  "language",
+                  "modeling",
+                  "nearest",
+                  "nearest-neighbor",
+                  "neuro-symbolic",
+                  "neurosymbolic",
+                  "pytorch",
+                  "retomaton",
+                  "retrieval"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -275,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TBC",
+                "homepage": null,
                 "id": 496054901,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-02T20:21:55Z",
+                "open_issues": 3,
                 "owner": "swj0419",
                 "repo": "kNN_prompt",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -291,12 +424,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shared repository for open-sourced projects from the Google AI Language team.",
+                "homepage": "https://ai.google/research/teams/language/",
                 "id": 153201352,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T18:34:36Z",
+                "open_issues": 121,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795
+                "stars": 1795,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -307,12 +449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of paper \"Efficient Nearest Neighbor Language Models\" (EMNLP 2021)",
+                "homepage": null,
                 "id": 405148276,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-20T00:20:10Z",
+                "open_issues": 0,
                 "owner": "jxhe",
                 "repo": "efficient-knnlm",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -323,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dense Passage Retriever - is a set of tools and models for open domain Q&A task.",
+                "homepage": null,
                 "id": 263491619,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-06T07:36:18Z",
+                "open_issues": 36,
                 "owner": "facebookresearch",
                 "repo": "DPR",
-                "stars": 1870
+                "stars": 1870,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -339,12 +491,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shared repository for open-sourced projects from the Google AI Language team.",
+                "homepage": "https://ai.google/research/teams/language/",
                 "id": 153201352,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T18:34:36Z",
+                "open_issues": 121,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795
+                "stars": 1795,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             },
@@ -355,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 239880741,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-07T18:40:44Z",
+                "open_issues": 6,
                 "owner": "urvashik",
                 "repo": "knnlm",
-                "stars": 332
+                "stars": 332,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
             }
@@ -382,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 732328810,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-08T05:55:17Z",
+            "open_issues": 19,
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2138
+            "stars": 2138,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
         },
@@ -398,12 +569,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models",
+            "homepage": null,
             "id": 710443541,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-22T03:17:18Z",
+            "open_issues": 14,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1343
+            "stars": 1343,
+            "topics": [
+              "embeddings",
+              "large-language-models",
+              "llm",
+              "rag",
+              "rag-embeddings",
+              "retrieval-augmented-generation",
+              "retrieval-information"
+            ]
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
         },
@@ -414,12 +598,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 702839430,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-07T13:58:37Z",
+            "open_issues": 15,
             "owner": "frutik",
             "repo": "Awesome-RAG",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "rag",
+              "rag-evaluation",
+              "rag-implementation"
+            ]
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
         },
@@ -430,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Large Language Model with RAG",
+            "homepage": null,
             "id": 709778988,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-03T13:17:41Z",
+            "open_issues": 0,
             "owner": "WangRongsheng",
             "repo": "Awesome-LLM-with-RAG",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
         },
@@ -446,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 702763265,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-15T06:14:21Z",
+            "open_issues": 0,
             "owner": "HITsz-TMG",
             "repo": "awesome-llm-reader",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
         }
@@ -460,15 +663,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:52:10.376Z",
+    "last_updated": "2026-08-29T04:43:21.945Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
+      "homepage": null,
       "id": 755500149,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-01T08:45:44Z",
+      "open_issues": 19,
       "owner": "coree",
       "repo": "awesome-rag",
-      "stars": 432
+      "stars": 432,
+      "topics": [
+        "awesome-list",
+        "awesome-resources",
+        "embeddings",
+        "large-language-models",
+        "llm",
+        "rag",
+        "rag-model",
+        "retrieval-augmented",
+        "retrieval-augmented-generation",
+        "retrieval-systems"
+      ]
     },
     "original_repository_sha": "3af4f0ccafee3543ff1966d69c455b5d4c330d93",
     "enhanced_repository": "enhansome/enhansome-rag",
