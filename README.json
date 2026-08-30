@@ -49,7 +49,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4466,
+                "stars": 4465,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T15:52:51Z",
-                "open_issues": 1264,
+                "last_commit": "2026-08-30T17:41:03Z",
+                "open_issues": 1248,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17667,
+                "stars": 17675,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T15:52:51Z",
-                "open_issues": 1264,
+                "last_commit": "2026-08-30T17:41:03Z",
+                "open_issues": 1248,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17667,
+                "stars": 17675,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 906,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12101,
+                "stars": 12104,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -357,7 +357,7 @@
                 "open_issues": 3,
                 "owner": "Edward-Sun",
                 "repo": "RECITE",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -433,7 +433,7 @@
                 "open_issues": 121,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -500,7 +500,7 @@
                 "open_issues": 121,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -578,7 +578,7 @@
             "open_issues": 14,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1343,
+            "stars": 1344,
             "topics": [
               "embeddings",
               "large-language-models",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:10:30.611Z",
+    "last_updated": "2026-08-30T18:24:23.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
