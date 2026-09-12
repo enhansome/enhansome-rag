@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2136,
+                "stars": 2135,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T18:10:05Z",
-                "open_issues": 1317,
+                "last_commit": "2026-09-12T17:37:28Z",
+                "open_issues": 1332,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17861,
+                "stars": 17866,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T18:10:05Z",
-                "open_issues": 1317,
+                "last_commit": "2026-09-12T17:37:28Z",
+                "open_issues": 1332,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17861,
+                "stars": 17866,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -557,7 +557,7 @@
             "open_issues": 19,
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2136,
+            "stars": 2135,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:10:26.589Z",
+    "last_updated": "2026-09-12T17:40:46.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
