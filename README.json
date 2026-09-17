@@ -49,7 +49,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4474,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T18:34:29Z",
-                "open_issues": 1376,
+                "last_commit": "2026-09-17T18:42:16Z",
+                "open_issues": 1370,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17920,
+                "stars": 17932,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T18:34:29Z",
-                "open_issues": 1376,
+                "last_commit": "2026-09-17T18:42:16Z",
+                "open_issues": 1370,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 17920,
+                "stars": 17932,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 910,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12168,
+                "stars": 12171,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -160,7 +160,7 @@
                 "open_issues": 80,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1598,
+                "stars": 1599,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:38:43.972Z",
+    "last_updated": "2026-09-17T18:48:58.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
