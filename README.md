@@ -1,7 +1,7 @@
 # Awesome RAG with stars
 
 A curated list of retrieval-augmented generation (RAG) in large language models.\
-*Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/coree/awesome-rag/discussions/1) ⭐ 443 | 🐛 21 | 📅 2025-12-01 page.*
+*Suggest and discuss possible enhancements on the [Potential Additions](https://github.com/coree/awesome-rag/discussions/1) ⭐ 447 | 🐛 21 | 📅 2025-12-01 page.*
 
 ![cc](https://github.com/coree/awesome-rag/assets/5042747/de9c3103-3959-4942-9a52-02156c4bf3a4)
 
@@ -54,7 +54,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 **2024**
 
 * **Learning to Retrieve In-Context Examples for Large Language Models**\
-  [`Paper`](https://arxiv.org/abs/2307.07164) [`Code`](https://github.com/microsoft/LMOps/tree/main/llm_retriever) ⭐ 4,475 | 🐛 119 | 🌐 Python | 📅 2026-09-15 `EACL` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fae22f7c57916562e2729a1a7f34298e4220b77a7%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2307.07164) [`Code`](https://github.com/microsoft/LMOps/tree/main/llm_retriever) ⭐ 4,475 | 🐛 120 | 🌐 Python | 📅 2026-09-15 `EACL` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fae22f7c57916562e2729a1a7f34298e4220b77a7%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Reliable, Adaptable, and Attributable Language Models with Retrieval**\
   [`Paper`](https://arxiv.org/abs/2403.03187) `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcfa85c8db829dbd2384ea7f130f462e7e7f1f630%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -62,28 +62,28 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 **2023**
 
 * **Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**\
-  [`Paper`](https://arxiv.org/abs/2304.06762) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 17,991 | 🐛 1,405 | 🌐 Python | 📅 2026-09-23 `EMNLP` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb63e97330154acece935ffa6901e3f36518e5703%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2304.06762) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 18,003 | 🐛 1,415 | 🌐 Python | 📅 2026-09-24 `EMNLP` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb63e97330154acece935ffa6901e3f36518e5703%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**\
-  [`Paper`](https://arxiv.org/abs/2310.07713) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 17,991 | 🐛 1,405 | 🌐 Python | 📅 2026-09-23 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F675c87c9fed17b6dc1d9734606e12c9d0c46c573%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2310.07713) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 18,003 | 🐛 1,415 | 🌐 Python | 📅 2026-09-24 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F675c87c9fed17b6dc1d9734606e12c9d0c46c573%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Retrieve Anything To Augment Large Language Models**\
-  [`Paper`](https://arxiv.org/abs/2310.07554) [`Code`](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,188 | 🐛 910 | 🌐 Python | 📅 2026-08-24 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F232e07b0ef0148c5325fda96eb9057c7a6db2ec2%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2310.07554) [`Code`](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,191 | 🐛 910 | 🌐 Python | 📅 2026-08-24 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F232e07b0ef0148c5325fda96eb9057c7a6db2ec2%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Universal Information Extraction with Meta-Pretrained Self-Retrieval**\
-  [`Paper`](https://aclanthology.org/2023.findings-acl.251/) [`Code`](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/metaretriever) ⭐ 1,601 | 🐛 82 | 🌐 Python | 📅 2026-09-15 `ACL` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fac902460f17c3dedf40241917a86f48c4e30dd30%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://aclanthology.org/2023.findings-acl.251/) [`Code`](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/metaretriever) ⭐ 1,602 | 🐛 82 | 🌐 Python | 📅 2026-09-15 `ACL` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fac902460f17c3dedf40241917a86f48c4e30dd30%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**\
   [`Paper`](https://arxiv.org/abs/2305.01625) [`Code`](https://github.com/abertsch72/unlimiformer) ⭐ 1,062 | 🐛 24 | 🌐 Python | 📅 2024-03-07 `NeurIPS` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fdbc368bc8b49347dd27679894524fa62f88492c9%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Active Retrieval Augmented Generation**\
-  [`Paper`](https://arxiv.org/abs/2305.06983) [`Code`](https://github.com/jzbjyb/FLARE) ⭐ 668 | 🐛 17 | 🌐 Python | 📅 2023-11-20 `EMNLP` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F88884b8806262a4095036041e3567d450dba39f7%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2305.06983) [`Code`](https://github.com/jzbjyb/FLARE) ⭐ 667 | 🐛 17 | 🌐 Python | 📅 2023-11-20 `EMNLP` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F88884b8806262a4095036041e3567d450dba39f7%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **In-Context Retrieval-Augmented Language Models**\
   [`Paper`](https://arxiv.org/abs/2302.00083) [`Code`](https://github.com/AI21Labs/in-context-ralm) ⚠️ Archived `TACL`  `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F465471bb5bf1a945549d6291c2d23367966b4957%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Query Rewriting for Retrieval-Augmented Large Language Models**\
-  [`Paper`](https://arxiv.org/abs/2305.14283) [`Code`](https://github.com/xbmxb/RAG-query-rewriting) ⭐ 227 | 🐛 9 | 🌐 Python | 📅 2024-02-28 `EMNLP` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff743287be3ced6757de7ecb26d03815b22cd737b%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2305.14283) [`Code`](https://github.com/xbmxb/RAG-query-rewriting) ⭐ 228 | 🐛 9 | 🌐 Python | 📅 2024-02-28 `EMNLP` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff743287be3ced6757de7ecb26d03815b22cd737b%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Nonparametric Masked Language Modeling**\
   [`Paper`](https://arxiv.org/abs/2212.01349) [`Code`](https://github.com/facebookresearch/NPM) ⚠️ Archived `ACL` `Training` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9492ee1435e183cb62b65d8d7f39be0dfd17377a%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -236,7 +236,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 
 * **Kiln**\
   *Open-source application to build and evaluate production-ready RAG pipelines.*\
-  [`Website`](https://kiln.tech) [`GitHub`](https://github.com/Kiln-AI/Kiln) ⭐ 5,078 | 🐛 77 | 🌐 Python | 📅 2026-09-23
+  [`Website`](https://kiln.tech) [`GitHub`](https://github.com/Kiln-AI/Kiln) ⭐ 5,078 | 🐛 76 | 🌐 Python | 📅 2026-09-24
 
 * **Unstructured**\
   *Unstructured.io offers a powerful toolkit that handles the ingestion and data preprocessing step, allowing you to focus on the more exciting downstream steps in your machine learning pipeline. Unstructured has over a dozen data connectors that easily integrate with various data sources, including AWS S3, Discord, Slack, Wikipedia, and more.*\
@@ -249,11 +249,11 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 ## Other Collections
 
 * [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) ⭐ 2,137 | 🐛 19 | 📅 2024-05-08
-* [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,358 | 🐛 15 | 📅 2026-07-22
+* [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,362 | 🐛 15 | 📅 2026-07-22
 * [Awesome RAG](https://github.com/frutik/Awesome-RAG) ⚠️ Archived
 * [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2023-11-03
 * [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader) ⭐ 8 | 🐛 0 | 📅 2024-08-15: A Repository of Retrieval-augmented LLMs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
