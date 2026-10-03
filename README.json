@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
-              "description": null,
+              "description": "Tongji-KGLLM/RAG-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Learning to Retrieve In-Context Examples for Large Language Models",
-              "description": null,
+              "description": "microsoft/LMOps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -69,7 +69,7 @@
             {
               "node_type": "item",
               "title": "Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study",
-              "description": null,
+              "description": "NVIDIA/Megatron-LM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:38:10Z",
-                "open_issues": 1503,
+                "last_commit": "2026-10-03T04:09:28Z",
+                "open_issues": 1504,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18055,
+                "stars": 18059,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -94,7 +94,7 @@
             {
               "node_type": "item",
               "title": "InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining",
-              "description": null,
+              "description": "NVIDIA/Megatron-LM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:38:10Z",
-                "open_issues": 1503,
+                "last_commit": "2026-10-03T04:09:28Z",
+                "open_issues": 1504,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18055,
+                "stars": 18059,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "Retrieve Anything To Augment Large Language Models",
-              "description": null,
+              "description": "FlagOpen/FlagEmbedding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -147,7 +147,7 @@
             {
               "node_type": "item",
               "title": "Universal Information Extraction with Meta-Pretrained Self-Retrieval",
-              "description": null,
+              "description": "AlibabaResearch/DAMO-ConvAI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -173,7 +173,7 @@
             {
               "node_type": "item",
               "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
-              "description": null,
+              "description": "abertsch72/unlimiformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -194,7 +194,7 @@
             {
               "node_type": "item",
               "title": "Active Retrieval Augmented Generation",
-              "description": null,
+              "description": "jzbjyb/FLARE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "In-Context Retrieval-Augmented Language Models",
-              "description": null,
+              "description": "AI21Labs/in-context-ralm",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -236,7 +236,7 @@
             {
               "node_type": "item",
               "title": "Query Rewriting for Retrieval-Augmented Large Language Models",
-              "description": null,
+              "description": "xbmxb/RAG-query-rewriting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -257,7 +257,7 @@
             {
               "node_type": "item",
               "title": "Nonparametric Masked Language Modeling",
-              "description": null,
+              "description": "facebookresearch/NPM",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -278,7 +278,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Dense Information Retrieval with Contrastive Learning",
-              "description": null,
+              "description": "facebookresearch/contriever",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -299,7 +299,7 @@
             {
               "node_type": "item",
               "title": "⭐ Atlas: Few-shot Learning with Retrieval Augmented Language Models",
-              "description": null,
+              "description": "facebookresearch/atlas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -320,7 +320,7 @@
             {
               "node_type": "item",
               "title": "Memorizing Transformers",
-              "description": null,
+              "description": "princeton-nlp/TRIME",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "Recitation-Augmented Language Models",
-              "description": null,
+              "description": "Edward-Sun/RECITE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval",
-              "description": null,
+              "description": "neulab/retomaton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,7 +399,7 @@
             {
               "node_type": "item",
               "title": "kNN-Prompt: Nearest Neighbor Zero-Shot Inference",
-              "description": null,
+              "description": "swj0419/kNN_prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
             {
               "node_type": "item",
               "title": "Mention Memory: incorporating textual knowledge into Transformers through entity mention attention",
-              "description": null,
+              "description": "google-research/language",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -445,7 +445,7 @@
             {
               "node_type": "item",
               "title": "Efficient Nearest Neighbor Language Models",
-              "description": null,
+              "description": "jxhe/efficient-knnlm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "Dense Passage Retrieval for Open-Domain Question Answering",
-              "description": null,
+              "description": "facebookresearch/DPR",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -487,7 +487,7 @@
             {
               "node_type": "item",
               "title": "⭐ REALM: Retrieval-Augmented Language Model Pre-Training",
-              "description": null,
+              "description": "google-research/language",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "Generalization through Memorization: Nearest Neighbor Language Models",
-              "description": null,
+              "description": "urvashik/knnlm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
         {
           "node_type": "item",
           "title": "RAG-Survey",
-          "description": null,
+          "description": "Tongji-KGLLM/RAG-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -565,7 +565,7 @@
         {
           "node_type": "item",
           "title": "Awesome LLM RAG",
-          "description": null,
+          "description": "jxzhangjhu/Awesome-LLM-RAG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,7 +575,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-22T03:17:18Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
             "stars": 1366,
@@ -594,7 +594,7 @@
         {
           "node_type": "item",
           "title": "Awesome RAG",
-          "description": null,
+          "description": "frutik/Awesome-RAG",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -619,7 +619,7 @@
         {
           "node_type": "item",
           "title": "Awesome LLM with RAG",
-          "description": null,
+          "description": "WangRongsheng/Awesome-LLM-with-RAG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:45:16.133Z",
+    "last_updated": "2026-10-03T05:05:27.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
