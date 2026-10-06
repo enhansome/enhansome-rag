@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T21:48:14Z",
-                "open_issues": 1539,
+                "last_commit": "2026-10-06T09:32:16Z",
+                "open_issues": 1545,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18074,
+                "stars": 18077,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T21:48:14Z",
-                "open_issues": 1539,
+                "last_commit": "2026-10-06T09:32:16Z",
+                "open_issues": 1545,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18074,
+                "stars": 18077,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 918,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12215,
+                "stars": 12216,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -578,7 +578,7 @@
             "open_issues": 9,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "embeddings",
               "large-language-models",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:49:19.467Z",
+    "last_updated": "2026-10-06T10:29:41.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
@@ -672,7 +672,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-01T08:45:44Z",
-      "open_issues": 22,
+      "open_issues": 21,
       "owner": "coree",
       "repo": "awesome-rag",
       "stars": 451,
