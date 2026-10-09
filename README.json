@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2139,
+                "stars": 2138,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -49,7 +49,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4477,
+                "stars": 4478,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T19:46:08Z",
-                "open_issues": 1588,
+                "last_commit": "2026-10-09T19:58:38Z",
+                "open_issues": 1585,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18087,
+                "stars": 18099,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T19:46:08Z",
-                "open_issues": 1588,
+                "last_commit": "2026-10-09T19:58:38Z",
+                "open_issues": 1585,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18087,
+                "stars": 18099,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 920,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12225,
+                "stars": 12230,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -479,7 +479,7 @@
                 "open_issues": 36,
                 "owner": "facebookresearch",
                 "repo": "DPR",
-                "stars": 1871,
+                "stars": 1870,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -557,7 +557,7 @@
             "open_issues": 19,
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2139,
+            "stars": 2138,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
@@ -578,7 +578,7 @@
             "open_issues": 9,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1367,
+            "stars": 1366,
             "topics": [
               "embeddings",
               "large-language-models",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:29:41.073Z",
+    "last_updated": "2026-10-09T19:59:39.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
