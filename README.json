@@ -49,7 +49,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4483,
+                "stars": 4484,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T17:33:11Z",
-                "open_issues": 1655,
+                "last_commit": "2026-10-18T16:44:29Z",
+                "open_issues": 1649,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18178,
+                "stars": 18189,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T17:33:11Z",
-                "open_issues": 1655,
+                "last_commit": "2026-10-18T16:44:29Z",
+                "open_issues": 1649,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18178,
+                "stars": 18189,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 924,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12256,
+                "stars": 12259,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -575,10 +575,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-05T14:54:26Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1370,
+            "stars": 1369,
             "topics": [
               "embeddings",
               "large-language-models",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:45:41.747Z",
+    "last_updated": "2026-10-18T17:49:56.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
@@ -675,7 +675,7 @@
       "open_issues": 21,
       "owner": "coree",
       "repo": "awesome-rag",
-      "stars": 453,
+      "stars": 454,
       "topics": [
         "awesome-list",
         "awesome-resources",
