@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T20:17:53Z",
-                "open_issues": 1660,
+                "last_commit": "2026-10-20T18:49:26Z",
+                "open_issues": 1652,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18198,
+                "stars": 18215,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T20:17:53Z",
-                "open_issues": 1660,
+                "last_commit": "2026-10-20T18:49:26Z",
+                "open_issues": 1652,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18198,
+                "stars": 18215,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -291,7 +291,7 @@
                 "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "contriever",
-                "stars": 779,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -433,7 +433,7 @@
                 "open_issues": 125,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1819,
+                "stars": 1820,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -500,7 +500,7 @@
                 "open_issues": 125,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1819,
+                "stars": 1820,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -574,8 +574,8 @@
             "id": 710443541,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-05T14:54:26Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-20T15:01:41Z",
+            "open_issues": 7,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
             "stars": 1369,
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:21:42.218Z",
+    "last_updated": "2026-10-20T18:54:12.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
