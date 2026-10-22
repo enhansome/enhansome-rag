@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T18:16:35Z",
-                "open_issues": 1689,
+                "last_commit": "2026-10-22T18:54:42Z",
+                "open_issues": 1685,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18230,
+                "stars": 18241,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T18:16:35Z",
-                "open_issues": 1689,
+                "last_commit": "2026-10-22T18:54:42Z",
+                "open_issues": 1685,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18230,
+                "stars": 18241,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 924,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12262,
+                "stars": 12266,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -157,10 +157,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:53:20Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1611,
+                "stars": 1613,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -291,7 +291,7 @@
                 "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "contriever",
-                "stars": 780,
+                "stars": 779,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -575,7 +575,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T01:57:10Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
             "stars": 1369,
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:06:13.969Z",
+    "last_updated": "2026-10-22T19:02:37.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
