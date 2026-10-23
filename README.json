@@ -49,7 +49,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4484,
+                "stars": 4485,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T18:54:42Z",
-                "open_issues": 1685,
+                "last_commit": "2026-10-23T18:49:28Z",
+                "open_issues": 1691,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18241,
+                "stars": 18253,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T18:54:42Z",
-                "open_issues": 1685,
+                "last_commit": "2026-10-23T18:49:28Z",
+                "open_issues": 1691,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18241,
+                "stars": 18253,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 924,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12266,
+                "stars": 12271,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -433,7 +433,7 @@
                 "open_issues": 125,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -500,7 +500,7 @@
                 "open_issues": 125,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:02:37.614Z",
+    "last_updated": "2026-10-23T18:53:10.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
