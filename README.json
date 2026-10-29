@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T20:01:14Z",
-                "open_issues": 1832,
+                "last_commit": "2026-10-29T19:42:04Z",
+                "open_issues": 1855,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18290,
+                "stars": 18294,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T20:01:14Z",
-                "open_issues": 1832,
+                "last_commit": "2026-10-29T19:42:04Z",
+                "open_issues": 1855,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18290,
+                "stars": 18294,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 925,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12285,
+                "stars": 12286,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -160,7 +160,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1616,
+                "stars": 1617,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -430,10 +430,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-10T18:34:36Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1821,
+                "stars": 1822,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -497,10 +497,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-10T18:34:36Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1821,
+                "stars": 1822,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:04:00.459Z",
+    "last_updated": "2026-10-29T20:03:52.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
