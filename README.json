@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2142,
+                "stars": 2141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T20:13:25Z",
-                "open_issues": 1905,
+                "last_commit": "2026-11-04T20:46:58Z",
+                "open_issues": 1945,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18321,
+                "stars": 18327,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T20:13:25Z",
-                "open_issues": 1905,
+                "last_commit": "2026-11-04T20:46:58Z",
+                "open_issues": 1945,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18321,
+                "stars": 18327,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 929,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12294,
+                "stars": 12297,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -160,7 +160,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1620,
+                "stars": 1622,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -557,7 +557,7 @@
             "open_issues": 19,
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2142,
+            "stars": 2141,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
@@ -575,7 +575,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-31T15:56:45Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
             "stars": 1371,
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:45:58.763Z",
+    "last_updated": "2026-11-04T21:03:44.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
