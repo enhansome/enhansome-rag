@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T18:43:14Z",
-                "open_issues": 1958,
+                "last_commit": "2026-11-08T18:54:49Z",
+                "open_issues": 1943,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18346,
+                "stars": 18349,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T18:43:14Z",
-                "open_issues": 1958,
+                "last_commit": "2026-11-08T18:54:49Z",
+                "open_issues": 1943,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18346,
+                "stars": 18349,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -129,10 +129,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T09:50:16Z",
-                "open_issues": 929,
+                "open_issues": 930,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12302,
+                "stars": 12303,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:15:09.051Z",
+    "last_updated": "2026-11-08T19:19:38.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
