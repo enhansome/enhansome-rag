@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T20:07:37Z",
-                "open_issues": 2072,
+                "last_commit": "2026-11-14T19:01:18Z",
+                "open_issues": 2069,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18390,
+                "stars": 18394,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T20:07:37Z",
-                "open_issues": 2072,
+                "last_commit": "2026-11-14T19:01:18Z",
+                "open_issues": 2069,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18390,
+                "stars": 18394,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 942,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12318,
+                "stars": 12321,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -574,7 +574,7 @@
             "id": 710443541,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-07T05:04:04Z",
+            "last_commit": "2026-11-14T03:17:03Z",
             "open_issues": 7,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:10:39.581Z",
+    "last_updated": "2026-11-14T19:42:01.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
