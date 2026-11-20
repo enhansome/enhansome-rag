@@ -33,7 +33,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 **2024**
 
 * **Retrieval-Augmented Generation for Large Language Models: A Survey**\
-  [`Paper`](https://arxiv.org/pdf/2312.10997.pdf)  [`Code`](https://github.com/Tongji-KGLLM/RAG-Survey) ⭐ 2,140 | 🐛 19 | 📅 2024-05-08 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/pdf/2312.10997.pdf)  [`Code`](https://github.com/Tongji-KGLLM/RAG-Survey) ⭐ 2,138 | 🐛 19 | 📅 2024-05-08 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Retrieval-Augmented Generation for Natural Language
   Processing: A Survey**\
@@ -62,10 +62,10 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 **2023**
 
 * **Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**\
-  [`Paper`](https://arxiv.org/abs/2304.06762) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 18,439 | 🐛 2,168 | 🌐 Python | 📅 2026-11-19 `EMNLP` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb63e97330154acece935ffa6901e3f36518e5703%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2304.06762) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 18,447 | 🐛 2,173 | 🌐 Python | 📅 2026-11-20 `EMNLP` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb63e97330154acece935ffa6901e3f36518e5703%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**\
-  [`Paper`](https://arxiv.org/abs/2310.07713) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 18,439 | 🐛 2,168 | 🌐 Python | 📅 2026-11-19 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F675c87c9fed17b6dc1d9734606e12c9d0c46c573%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2310.07713) [`Code`](https://github.com/NVIDIA/Megatron-LM/tree/InstructRetro/tools/retro) ⭐ 18,447 | 🐛 2,173 | 🌐 Python | 📅 2026-11-20 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F675c87c9fed17b6dc1d9734606e12c9d0c46c573%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Retrieve Anything To Augment Large Language Models**\
   [`Paper`](https://arxiv.org/abs/2310.07554) [`Code`](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,349 | 🐛 942 | 🌐 Python | 📅 2026-10-27 `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F232e07b0ef0148c5325fda96eb9057c7a6db2ec2%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -106,7 +106,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   [`Paper`](https://arxiv.org/abs/2112.09118) [`Code`](https://github.com/facebookresearch/contriever) ⚠️ Archived `arXiv` `Training` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4f4a409f701f7552d45c46a5b0fea69dca6f8e84%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * ⭐ **Atlas: Few-shot Learning with Retrieval Augmented Language Models**\
-  [`Paper`](https://arxiv.org/abs/2208.03299) [`Code`](https://github.com/facebookresearch/atlas) ⭐ 569 | 🐛 7 | 🌐 Python | 📅 2026-07-02 [`Blog`](https://research.facebook.com/blog/2023/1/atlas-few-shot-learning-with-retrieval-augmented-language-models/) `Training` `JMLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F398e4061dde8f5c80606869cebfa2031de7b5b74%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2208.03299) [`Code`](https://github.com/facebookresearch/atlas) ⭐ 568 | 🐛 7 | 🌐 Python | 📅 2026-07-02 [`Blog`](https://research.facebook.com/blog/2023/1/atlas-few-shot-learning-with-retrieval-augmented-language-models/) `Training` `JMLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F398e4061dde8f5c80606869cebfa2031de7b5b74%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Memorizing Transformers**\
   [`Paper`](https://arxiv.org/abs/2203.08913) [`Code`](https://github.com/princeton-nlp/TRIME) ⭐ 192 | 🐛 1 | 🌐 Python | 📅 2023-06-14 `ICLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0e802c0739771acf70e60d59c2df51cd7e8c50c0%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -115,7 +115,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   [`Paper`](https://arxiv.org/abs/2210.01296) [`Code`](https://github.com/Edward-Sun/RECITE) ⭐ 96 | 🐛 3 | 🌐 Python | 📅 2023-02-22 `ICLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fed99a2572fb5f4240aa6068e3bf274832e831306%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**\
-  [`Paper`](https://arxiv.org/abs/2201.12431) [`Code`](https://github.com/neulab/retomaton) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2022-07-16 `ICML` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff92535edac9d1c735feabdb4d94c1157f12d899c%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2201.12431) [`Code`](https://github.com/neulab/retomaton) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2022-07-16 `ICML` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff92535edac9d1c735feabdb4d94c1157f12d899c%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **kNN-Prompt: Nearest Neighbor Zero-Shot Inference**\
   [`Paper`](https://arxiv.org/abs/2205.13792) [`Code`](https://github.com/swj0419/kNN_prompt) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2022-11-02 `EMNLP` `Application` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F563a851106623b9f112d0e2a290d3950a871079c%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -135,7 +135,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 **2021**
 
 * **Mention Memory: incorporating textual knowledge into Transformers through entity mention attention**\
-  [`Paper`](https://arxiv.org/abs/2110.06176) [`Code`](https://github.com/google-research/language/tree/master/language/mentionmemory) ⭐ 1,827 | 🐛 127 | 🌐 Python | 📅 2026-06-10 `arXiv` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b7416c90e8d3fc9ad5c9fb3923a638f69294ed7%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2110.06176) [`Code`](https://github.com/google-research/language/tree/master/language/mentionmemory) ⭐ 1,828 | 🐛 127 | 🌐 Python | 📅 2026-06-10 `arXiv` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b7416c90e8d3fc9ad5c9fb3923a638f69294ed7%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Efficient Nearest Neighbor Language Models**\
   [`Paper`](https://arxiv.org/abs/2109.04212) [`Code`](https://github.com/jxhe/efficient-knnlm) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2022-01-20 `EMNLP` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c47eb31b2dd76d8dc986173a1d3f00da1c9c74d%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -146,7 +146,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   [`Paper`](https://arxiv.org/abs/2004.04906) [`Code`](https://github.com/facebookresearch/DPR) ⚠️ Archived `EMNLP` `Training` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb26f2037f769d5ffc5f7bdcec2de8da28ec14bee%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * ⭐ **REALM: Retrieval-Augmented Language Model Pre-Training**\
-  [`Paper`](https://arxiv.org/abs/2002.08909) [`Code`](https://github.com/google-research/language/blob/master/language/realm/README.md) ⭐ 1,827 | 🐛 127 | 🌐 Python | 📅 2026-06-10 [`HuggingFace`](https://huggingface.co/docs/transformers/model_doc/realm) `PMLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F832fff14d2ed50eb7969c4c4b976c35776548f56%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
+  [`Paper`](https://arxiv.org/abs/2002.08909) [`Code`](https://github.com/google-research/language/blob/master/language/realm/README.md) ⭐ 1,828 | 🐛 127 | 🌐 Python | 📅 2026-06-10 [`HuggingFace`](https://huggingface.co/docs/transformers/model_doc/realm) `PMLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F832fff14d2ed50eb7969c4c4b976c35776548f56%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
 
 * **Generalization through Memorization: Nearest Neighbor Language Models**\
   [`Paper`](https://arxiv.org/abs/1911.00172) [`Code`](https://github.com/urvashik/knnlm) ⭐ 332 | 🐛 6 | 🌐 Python | 📅 2021-06-07 `ICLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7be8c119dbe065c52125ee7716601751f3116844%3Ffields%3DcitationCount\&query=%24.citationCount\&label=citation)
@@ -236,7 +236,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 
 * **Kiln**\
   *Open-source application to build and evaluate production-ready RAG pipelines.*\
-  [`Website`](https://kiln.tech) [`GitHub`](https://github.com/Kiln-AI/Kiln) ⭐ 5,287 | 🐛 55 | 🌐 Python | 📅 2026-11-19
+  [`Website`](https://kiln.tech) [`GitHub`](https://github.com/Kiln-AI/Kiln) ⭐ 5,285 | 🐛 58 | 🌐 Python | 📅 2026-11-20
 
 * **Unstructured**\
   *Unstructured.io offers a powerful toolkit that handles the ingestion and data preprocessing step, allowing you to focus on the more exciting downstream steps in your machine learning pipeline. Unstructured has over a dozen data connectors that easily integrate with various data sources, including AWS S3, Discord, Slack, Wikipedia, and more.*\
@@ -248,12 +248,12 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 
 ## Other Collections
 
-* [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) ⭐ 2,140 | 🐛 19 | 📅 2024-05-08
-* [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,373 | 🐛 8 | 📅 2026-11-16
+* [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) ⭐ 2,138 | 🐛 19 | 📅 2024-05-08
+* [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,372 | 🐛 9 | 📅 2026-11-16
 * [Awesome RAG](https://github.com/frutik/Awesome-RAG) ⚠️ Archived
 * [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2023-11-03
 * [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader) ⭐ 8 | 🐛 0 | 📅 2024-08-15: A Repository of Retrieval-augmented LLMs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

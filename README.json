@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2140,
+                "stars": 2138,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -49,7 +49,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4484,
+                "stars": 4481,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T22:30:17Z",
-                "open_issues": 2168,
+                "last_commit": "2026-11-20T22:03:58Z",
+                "open_issues": 2173,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18439,
+                "stars": 18447,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T22:30:17Z",
-                "open_issues": 2168,
+                "last_commit": "2026-11-20T22:03:58Z",
+                "open_issues": 2173,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18439,
+                "stars": 18447,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -312,7 +312,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "atlas",
-                "stars": 569,
+                "stars": 568,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -378,7 +378,7 @@
                 "open_issues": 1,
                 "owner": "neulab",
                 "repo": "retomaton",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "icml-2022",
                   "knn",
@@ -433,7 +433,7 @@
                 "open_issues": 127,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -500,7 +500,7 @@
                 "open_issues": 127,
                 "owner": "google-research",
                 "repo": "language",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -557,7 +557,7 @@
             "open_issues": 19,
             "owner": "Tongji-KGLLM",
             "repo": "RAG-Survey",
-            "stars": 2140,
+            "stars": 2138,
             "topics": []
           },
           "first_seen": "2026-08-28T23:52:10.376Z"
@@ -575,10 +575,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-16T05:41:13Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "jxzhangjhu",
             "repo": "Awesome-LLM-RAG",
-            "stars": 1373,
+            "stars": 1372,
             "topics": [
               "embeddings",
               "large-language-models",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:34:08.235Z",
+    "last_updated": "2026-11-20T22:06:56.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
@@ -672,7 +672,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-01T08:45:44Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "coree",
       "repo": "awesome-rag",
       "stars": 455,
