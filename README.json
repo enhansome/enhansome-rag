@@ -49,7 +49,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4481,
+                "stars": 4482,
                 "topics": [
                   "agi",
                   "gpt",
@@ -78,11 +78,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T01:59:35Z",
-                "open_issues": 2193,
+                "last_commit": "2026-11-24T23:23:05Z",
+                "open_issues": 2191,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18467,
+                "stars": 18473,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -103,11 +103,11 @@
                 "id": 176982014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T01:59:35Z",
-                "open_issues": 2193,
+                "last_commit": "2026-11-24T23:23:05Z",
+                "open_issues": 2191,
                 "owner": "NVIDIA",
                 "repo": "Megatron-LM",
-                "stars": 18467,
+                "stars": 18473,
                 "topics": [
                   "large-language-models",
                   "model-para",
@@ -132,7 +132,7 @@
                 "open_issues": 942,
                 "owner": "FlagOpen",
                 "repo": "FlagEmbedding",
-                "stars": 12355,
+                "stars": 12358,
                 "topics": [
                   "embeddings",
                   "information-retrieval",
@@ -291,7 +291,7 @@
                 "open_issues": 12,
                 "owner": "facebookresearch",
                 "repo": "contriever",
-                "stars": 779,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -479,7 +479,7 @@
                 "open_issues": 36,
                 "owner": "facebookresearch",
                 "repo": "DPR",
-                "stars": 1870,
+                "stars": 1871,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:10.376Z"
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:59:55.464Z",
+    "last_updated": "2026-11-24T23:45:27.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of retrieval-augmented generation (RAG) in large language models",
